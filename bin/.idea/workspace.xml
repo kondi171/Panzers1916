@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="927fac3c-b3d5-4408-9fc8-b40abdac30e1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/artifacts/Panzers1916_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/panzers1916/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/panzers1916/Handler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/panzers1916/Launcher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/panzers1916/bullet/Bullet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/panzers1916/bullet/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/panzers1916/bullet/PionerBullet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/panzers1916/bullet/SpenserBullet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/panzers1916/display/Display.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/panzers1916/entities/Entity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/panzers1916/entities/EntityManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/panzers1916/entities/players/Pioner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/panzers1916/entities/players/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/panzers1916/entities/players/Spenser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/panzers1916/graphics/Assets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/panzers1916/graphics/FontLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/panzers1916/graphics/ImageLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/panzers1916/graphics/SpriteSheet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/panzers1916/graphics/Text.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/panzers1916/input/KeyManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/panzers1916/sounds/SoundLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/panzers1916/states/CreditsState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/panzers1916/states/GameOverState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/panzers1916/states/GameState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/panzers1916/states/MenuState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/panzers1916/states/OptionState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/panzers1916/states/State.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/panzers1916/tiles/BrickTile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/panzers1916/tiles/EmptyTile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/panzers1916/tiles/RockTile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/panzers1916/tiles/Tile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/panzers1916/tiles/WaterTile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/panzers1916/utils/Utils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/panzers1916/worlds/World.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TileGame.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Panzers1916.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/dev/panzers1916/Game.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/dev/panzers1916/Game.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/dev/panzers1916/Handler.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/dev/panzers1916/Handler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/dev/panzers1916/Launcher.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/dev/panzers1916/Launcher.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/dev/panzers1916/bullet/Bullet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/dev/panzers1916/bullet/Bullet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/dev/panzers1916/bullet/Controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/dev/panzers1916/bullet/Controller.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/dev/panzers1916/display/Display.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/dev/panzers1916/display/Display.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/dev/panzers1916/entities/Entity.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/dev/panzers1916/entities/Entity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/dev/panzers1916/entities/players/Pioner.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/dev/panzers1916/entities/players/Pioner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/dev/panzers1916/entities/players/Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/dev/panzers1916/entities/players/Player.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/dev/panzers1916/entities/players/Spenser.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/dev/panzers1916/entities/players/Spenser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/dev/panzers1916/graphics/Assets.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/dev/panzers1916/graphics/Assets.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/dev/panzers1916/graphics/ImageLoader.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/dev/panzers1916/graphics/ImageLoader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/dev/panzers1916/graphics/SpriteSheet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/dev/panzers1916/graphics/SpriteSheet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/dev/panzers1916/input/KeyManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/dev/panzers1916/input/KeyManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/dev/panzers1916/states/GameState.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/dev/panzers1916/states/GameState.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/dev/panzers1916/states/MenuState.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/dev/panzers1916/states/MenuState.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/dev/panzers1916/states/State.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/dev/panzers1916/states/State.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/dev/panzers1916/tiles/BrickTile.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/dev/panzers1916/tiles/BrickTile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/dev/panzers1916/tiles/EmptyTile.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/dev/panzers1916/tiles/EmptyTile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/dev/panzers1916/tiles/RockTile.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/dev/panzers1916/tiles/RockTile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/dev/panzers1916/tiles/Tile.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/dev/panzers1916/tiles/Tile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/dev/panzers1916/tiles/WaterTile.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/dev/panzers1916/tiles/WaterTile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/dev/panzers1916/utils/Utils.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/dev/panzers1916/utils/Utils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/dev/panzers1916/worlds/World.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/dev/panzers1916/worlds/World.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../res/TODO" beforeDir="false" afterPath="$PROJECT_DIR$/../res/TODO" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../res/textures/obstaclestest.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../res/worlds/world1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../res/worlds/world1.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1qTZDWLxO8ckU2Bzr75zbXMys0m" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="927fac3c-b3d5-4408-9fc8-b40abdac30e1" name="Default Changelist" comment="" />
+      <created>1617105420786</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617105420786</updated>
+    </task>
+    <servers />
+  </component>
+</project>
